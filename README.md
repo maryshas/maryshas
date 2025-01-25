@@ -9,6 +9,16 @@
 
 💌 Fun fact: I love reading. Currently, I'm reading the Twisted Series by Ana Huang and The Courts of Thorns and Roses by Sarah G. Maas. I also enjoy being in nature, traveling, and trying new foods.
 
+## 💻 My Projects
+
+### 🌟 Current Projects
+
+- **[SMART Hardware Inventory Application with Photo]([https://github.com/Leslieie/5915-Capstone-Project])**  
+  An asset management tool designed to catalog digital devices with photos and detailed metadata for small to medium-sized businesses managing 25-50 digital devices.
+  Key features include photo upload, searching, filtering, sorting, generating inventory reports, creating asset tags, and barcode/QR code scans.
+  Front-end: React Native, JavaScript
+  Back-end and Database Server: Microsoft Azure SQL Database
+
 <!--
 **maryshas/maryshas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

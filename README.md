@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 My name is Mary Shas!
+
+## 🚀 About Me
+👩🏻‍🎓 I'm a graduating senior at Ohio State University, majoring in Computer Science. I specialize in Data Analytics and minor in Business.
+👩🏻‍💻 I work as a Facilities Data Assistant at Ohio State University's Facilities Information and Technology Services. My main responsibilities include collecting data, cleaning datasets, creating visualizations using Tableau to track key performance metrics, and generating reports using Microsoft Power Query.
+💡 Recently, I've developed a passion for Data Analytics. I've completed a database and data mining course, where I learned how to design a database system, clean datasets, classify and cluster data, and formulate conclusions based on the results.
+💌 Fun fact: I love reading. Currently, I'm reading the Twisted Series by Ana Huang and The Courts of Thorns and Roses by Sarah G. Maas. I also enjoy being in nature, traveling, and trying new foods.
 
 <!--
 **maryshas/maryshas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

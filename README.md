@@ -14,10 +14,13 @@
 ### 🌟 Current Projects
 
 - **[SMART Hardware Inventory Application with Photo]([https://github.com/Leslieie/5915-Capstone-Project])**  
-  An asset management tool designed to catalog digital devices with photos and detailed metadata for small to medium-sized businesses managing 25-50 digital devices.
-  Key features include photo upload, searching, filtering, sorting, generating inventory reports, creating asset tags, and barcode/QR code scans.
-  Front-end: React Native, JavaScript
-  Back-end and Database Server: Microsoft Azure SQL Database
+  - An asset management tool designed to catalog digital devices with photos and detailed metadata for small to medium-sized businesses managing 25-50 digital devices.
+  
+  - Key features include photo upload, searching, filtering, sorting, generating inventory reports, creating asset tags, and barcode/QR code scans.
+  
+  - Front-end: React Native, JavaScript
+  
+  - Back-end and Database Server: Microsoft Azure SQL Database
 
 <!--
 **maryshas/maryshas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

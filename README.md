@@ -14,6 +14,7 @@
 📞 Contact me at [anakrowinumpok.1@osu.edu] and connect with me at [https://www.linkedin.com/in/maryshas/]
 
 
+
 ## 💻 My Projects
 
 ### 🌟 Current Projects

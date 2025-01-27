@@ -13,7 +13,7 @@
 
 ### 🌟 Current Projects
 
-- **[SMART Hardware Inventory Application with Photo]([https://github.com/Leslieie/5915-Capstone-Project])**  
+- **[SMART Hardware Inventory Application with Photo](https://github.com/Leslieie/5915-Capstone-Project)**  
   - An asset management tool designed to catalog digital devices with photos and detailed metadata for small to medium-sized businesses managing 25-50 digital devices.
   
   - Key features include photo upload, searching, filtering, sorting, generating inventory reports, creating asset tags, and barcode/QR code scans.

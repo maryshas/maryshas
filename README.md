@@ -20,8 +20,72 @@
   
   - Front-end: React Native, JavaScript
   
-  - Back-end and Database Server: Microsoft Azure SQL Database
+  - Back-end and Database Server: Microsoft Azure SQL Database]
+ 
+  - Currently an ongoing project.
+ 
+- **[Big Data and Analytics Association Project Series](https://github.com/yourusername/project2)**  
+  - Data Science research projects, including working with unclean datasets, performing data cleaning, feature engineering, and advanced exploratory data analysis.
+ 
+  - Software used: Python (pandas, seaborn, matplotlib, NumPy), SQL, Streamlit for deployment.
+ 
+  - Currently an ongoing project.
+ 
+### 🗂️ Past Projects
 
+- **[Data Analysis and Machine Learning](https://github.com/yourusername/project2)**
+  - Improved client decision-making by cleaning real-world marketing datasets, addressing issues such as unbalanced classes, outliers, missing values, and irrelevant attributes.
+ 
+  - Utilized classification models (KNN, Decision Tree, Gaussian Naive Bayes) to predict client subscription to term deposits, evaluating performance using accuracy and a benefit-cost model.
+ 
+  - Presented actionable insights and recommendations for improved marketing strategies.
+ 
+  - Software used: Python (Pandas, NumPy), Jupyter Notebook (IDE)
+ 
+- **[FITS Summary Stats Dashboard](https://github.com/yourusername/project2)**
+  -  Refined the summary stats dashboard to track and visualize key performance metrics within the FITS department.
+ 
+  -  Redesigned the dashboard for improved data presentation using the provided Tableau data source.
+ 
+  -  Software used: Tableau
+ 
+- **[Database Design and Application](https://github.com/yourusername/project2)**
+  - Translated dental business requirements into an effective database schemas.
+ 
+  - Produced a fully developed database application with SQL for robust implementation.
+ 
+  - Software used: SQL
+ 
+- **[Feedback Hub Web Application](https://github.com/yourusername/project2)**
+  - Developed an interative platform designed to enhance the experience of presentation feedback and grading.
+ 
+  - Built using Ruby on Rails with a Rails 7 framework and incorporating the Devise gem for user authentication, allowing user to engage dynamically with presentation events.
+ 
+  - Software used: Ruby on Rails, HTML, JavaScript, CSS
+ 
+- **[Glossary](https://github.com/yourusername/project2)**
+  - Designed and coded a glossary generation program capable of producing HTML files for a glossary of specialized terms and their definitions.
+ 
+  - Created a comprehensive JUnit test fixture to validate the functionality of the methods.
+ 
+  - Software used: Java, HTML
+ 
+- **[Calculator](https://github.com/yourusername/project2)**
+  - Designed and implemented the calculator using the model-view-controller architectural pattern.
+ 
+  - Created the graphical user interface (GUI) for the calculator using Swing framework.
+ 
+  - Software used: Java
+ 
+- **[Tourism Center App Development](https://github.com/yourusername/project2)**
+  - Created an app that integrates a hotel booking system which utilized Python GUI frameworks such as breezypythongui and tkinter to create the user interface.
+ 
+  - Software used: Python
+ 
+- **[Tag Cloud Generator](https://github.com/yourusername/project2)**
+  - Created an algorithm to generate a well-structured HTML tag clous using Map and SortingMachine featuring an alphabetical list of the top N words.
+ 
+  - Software used: Java, HTML
 <!--
 **maryshas/maryshas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

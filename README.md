@@ -56,11 +56,11 @@
   -  Software used: Tableau
  
 - **[Database Design and Application](https://github.com/maryshas/Database-Design-and-Application)**
-  - Translated dental business requirements into effective database schemas.
+  - Designed and implemented a relational database schema in SQLite for a dental company to manage patients, appointments, billing, and insurance data.
  
-  - Produced a fully developed database application with SQL for robust implementation.
+  - Used SQL to populate the database and create queries for operations like tracking appointments and managing payments.
  
-  - Software used: SQL
+  - Software used: SQL, SQLite
  
 - **[Feedback Hub Web Application](https://github.com/orgs/cse3901-osu-2024sp-910/teams/group-6/repositories)**
   - Developed an interactive platform designed to enhance the experience of presentation feedback and grading.

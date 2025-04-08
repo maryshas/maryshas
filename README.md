@@ -11,7 +11,7 @@
 
 💌 Fun fact: I love reading. Currently, I'm reading the Twisted Series by Ana Huang and The Courts of Thorns and Roses by Sarah G. Maas. I also enjoy being in nature, hiking, traveling, and trying new foods.
 
-📞 Contact me at [anakrowinumpok.1@osu.edu] and connect with me at [https://www.linkedin.com/in/maryshas/]
+📞 Contact me at [maryshasru@gmail.com] and connect with me at [https://www.linkedin.com/in/maryshas/]
 
 
 
@@ -24,16 +24,18 @@
   
   - Key features include photo upload, searching, filtering, sorting, generating inventory reports, creating asset tags, and barcode/QR code scans.
   
-  - Front-end: React Native, JavaScript
+  - Front-end: JavaScript
   
-  - Back-end and Database Server: Microsoft Azure SQL Database]
+  - Back-end and Database Server: Google Firebase
  
   - Currently an ongoing project.
  
-- **Big Data and Analytics Association Project Series**  
-  - Data Science research projects, including working with unclean datasets, performing data cleaning, feature engineering, and advanced exploratory data analysis.
+- **Formula 1 Race Winner Prediction Model**  
+  - Using FastF1 API and Gradient Boosting to predict the Formula 1 Grand Prix Winner based on 2024 race data and 2025 qualifying times.
  
-  - Software used: Python (pandas, seaborn, matplotlib, NumPy), SQL, Streamlit for deployment.
+  - Trained a Gradient Boosting Regressor to predict race performance by extracting lap times from the 2024 race and mapping them to 2025 qualifiers.
+ 
+  - Software used: Python (pandas, NumPy, FastF1 API, Gradient Boosting)
  
   - Currently an ongoing project.
  

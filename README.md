@@ -9,7 +9,7 @@
 
 🔎 Working style: I’m a fast learner who thrives on taking on new challenges and stepping outside my comfort zone. For example, at my current workplace, I embraced the opportunity to redesign the FITS Summary Stats Dashboard, even though I initially lacked experience with data visualization and Tableau. To succeed, I took a Tableau course and explored examples of great visualizations. This effort helped me create a dashboard that impressed my managers and added real value to our team. Furthermore, I value teamwork and open communication, so I always ask follow-up questions to ensure I fully understand my manager’s expectations and deliver exactly what’s needed for each project.
 
-💌 Fun fact: I love reading. Currently, I'm reading the Twisted Series by Ana Huang and The Courts of Thorns and Roses by Sarah G. Maas. I also enjoy being in nature, hiking, traveling, and trying new foods.
+💌 Fun fact: I love reading. I also enjoy being in nature, hiking, traveling, and trying new foods.
 
 📞 Contact me at [maryshasru@gmail.com] and connect with me at [https://www.linkedin.com/in/maryshas/]
 

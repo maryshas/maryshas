@@ -1,15 +1,15 @@
 ## Hi there 👋 Welcome to Mary's Portfolio!
 
 ## 🚀 About Me
-👩🏻‍🎓 I'm a graduating senior at Ohio State University, majoring in Computer Science. I specialize in Data Analytics and minor in Business.
+👩🏻‍🎓 I'm a fresh graduate from The Ohio State University with a major in Computer and Information Science. I specialized in Data Analytics and minor in Business.
 
-👩🏻‍💻 I work as a Facilities Data Assistant at Ohio State University's Facilities Information and Technology Services. My main responsibilities include collecting data, cleaning datasets, creating visualizations using Tableau to track key performance metrics, and generating reports using Microsoft Power Query.
+I’m passionate about turning raw data into clear, actionable insights. In my role as a Facilities Data Assistant at Ohio State University, I’ve worked with Tableau and Microsoft Power Query to track performance metrics, build dashboards, and generate reports that drive decision-making.
 
-💡 Recently, I've developed a passion for Data Analytics. I've completed a database and data mining course, where I learned how to design a database system, clean datasets, classify and cluster data, and formulate conclusions based on the results. Currently, I’m participating in a Project Series hosted by the Big Data and Analytics Association, where I work on personal technical projects while attending bi-weekly workshops. These workshops focus on statistical analysis, advanced visualizations, feature engineering, storytelling, and dashboarding.
+Beyond work, I’ve strengthened my skills through coursework in database design and data mining, as well as hands-on projects with the Big Data and Analytics Association—exploring statistical analysis, advanced visualizations, and storytelling with data. I thrive when taking on new challenges, like when I taught myself Tableau to redesign a performance dashboard that impressed my managers and added real value to the team.
 
-🔎 Working style: I’m a fast learner who thrives on taking on new challenges and stepping outside my comfort zone. For example, at my current workplace, I embraced the opportunity to redesign the FITS Summary Stats Dashboard, even though I initially lacked experience with data visualization and Tableau. To succeed, I took a Tableau course and explored examples of great visualizations. This effort helped me create a dashboard that impressed my managers and added real value to our team. Furthermore, I value teamwork and open communication, so I always ask follow-up questions to ensure I fully understand my manager’s expectations and deliver exactly what’s needed for each project.
+I’m excited to keep growing as a data professional and to contribute my skills, curiosity, and drive to teams that value data-driven decision-making.
 
-💌 Fun fact: I love reading. I also enjoy being in nature, hiking, traveling, and trying new foods.
+💌 Fun fact: I love reading. I also enjoy being in nature, hiking, traveling, and a big foodie.
 
 📞 Contact me at [maryshasru@gmail.com] and connect with me at [https://www.linkedin.com/in/maryshas/]
 
@@ -18,18 +18,6 @@
 ## 💻 My Projects
 
 ### 🌟 Current Projects
-
-- **[SMART Hardware Inventory Application with Photo](https://github.com/Leslieie/5915-Capstone-Project)**  
-  - An asset management tool designed to catalog digital devices with photos and detailed metadata for small to medium-sized businesses managing 25-50 digital devices.
-  
-  - Key features include photo upload, searching, filtering, sorting, generating inventory reports, creating asset tags, and barcode/QR code scans.
-  
-  - Front-end: JavaScript
-  
-  - Back-end and Database Server: Google Firebase
- 
-  - Currently an ongoing project.
- 
 - **Formula 1 Race Winner Prediction Model**  
   - Using FastF1 API and Gradient Boosting to predict the Formula 1 Grand Prix Winner based on 2024 race data and 2025 qualifying times.
  
@@ -40,6 +28,26 @@
   - Currently an ongoing project.
  
 ### 🗂️ Past Projects
+- **[Coffee Shop Full SQL Database Project](https://github.com/maryshas/Coffee-Shop-Full-SQL-Database-Project)**  
+  - CREATE tables (employees, locations, shops, suppliers) and INSERT data into the tables.
+    
+- **[Coffee Sales Excel Project](https://github.com/maryshas/Coffee-Sales-Excel-Project)**  
+  - Filled in columns in Orders table using XLOOKUP, INDEX + MATCH, and IF formulas.
+    
+  - Created pivot tables and charts to analyze the monthly total sales for each coffee type, the top 5 customers with highest sales, and the total sales by country.
+ 
+  - Created a dashboard for easy visualization, and I added timeline and slicers so users can easily filter the data according to their preferences.
+ 
+  - Tool used: Microsoft Excel (advanced formulas, pivot tables, dashboarding)
+    
+- **[SMART Hardware Inventory Application with Photo](https://github.com/Leslieie/5915-Capstone-Project)**  
+  - An asset management tool designed to catalog digital devices with photos and detailed metadata for small to medium-sized businesses managing 25-50 digital devices.
+  
+  - Key features include photo upload, searching, filtering, sorting, generating inventory reports, creating asset tags, and barcode/QR code scans.
+  
+  - Front-end: JavaScript
+  
+  - Back-end and Database Server: Google Firebase
 
 - **[Data Analysis and Machine Learning](https://github.com/maryshas/Data-Analysis-and-Machine-Learning)**
   - Improved client decision-making by cleaning real-world marketing datasets, and addressing issues such as unbalanced classes, outliers, missing values, and irrelevant attributes.

@@ -29,7 +29,11 @@ I’m excited to keep growing as a data professional and to contribute my skills
  
 ### 🗂️ Past Projects
 - **[Coffee Shop Full SQL Database Project](https://github.com/maryshas/Coffee-Shop-Full-SQL-Database-Project)**  
-  - CREATE tables (employees, locations, shops, suppliers) and INSERT data into the tables.
+  - Built a relational database in PostgreSQL with tables for employees, suppliers, locations, and shops.
+ 
+  - Wrote advanced SQL queries using joins, aggregations, string functions, and set operations to filter, analyze, and generate insights from the data.
+ 
+  - Software used: PostgreSQL
     
 - **[Coffee Sales Excel Project](https://github.com/maryshas/Coffee-Sales-Excel-Project)**  
   - Filled in columns in Orders table using XLOOKUP, INDEX + MATCH, and IF formulas.

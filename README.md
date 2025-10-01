@@ -42,7 +42,7 @@ I’m excited to keep growing as a data professional and to contribute my skills
  
   - Created a dashboard for easy visualization, and I added timeline and slicers so users can easily filter the data according to their preferences.
  
-  - Tool used: Microsoft Excel (advanced formulas, pivot tables, dashboarding)
+  - Software used: Microsoft Excel (advanced formulas, pivot tables, dashboarding)
     
 - **[SMART Hardware Inventory Application with Photo](https://github.com/Leslieie/5915-Capstone-Project)**  
   - An asset management tool designed to catalog digital devices with photos and detailed metadata for small to medium-sized businesses managing 25-50 digital devices.

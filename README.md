@@ -5,7 +5,7 @@
 
 I’m passionate about turning raw data into clear, actionable insights. In my role as a Facilities Data Assistant at Ohio State University, I’ve worked with Tableau and Microsoft Power Query to track performance metrics, build dashboards, and generate reports that drive decision-making.
 
-Beyond work, I’ve strengthened my skills through coursework in database design and data mining, as well as hands-on projects with the Big Data and Analytics Association—exploring statistical analysis, advanced visualizations, and storytelling with data. I thrive when taking on new challenges, like when I taught myself Tableau to redesign a performance dashboard that impressed my managers and added real value to the team.
+Beyond work, I’ve strengthened my skills through coursework in database design and data mining, as well as hands-on projects with the Big Data and Analytics Association, exploring statistical analysis, advanced visualizations, and storytelling with data. I thrive when taking on new challenges, like when I taught myself Tableau to redesign a performance dashboard that impressed my managers and added real value to the team.
 
 I’m excited to keep growing as a data professional and to contribute my skills, curiosity, and drive to teams that value data-driven decision-making.
 
